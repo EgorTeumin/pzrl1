@@ -1,1 +1,4 @@
-printf("dddddd");
+int main(){
+    printf("sss");
+    return 0;
+}
